@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Timer3.0</string>
+
+
+    <string name="vision">Time</string>
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="work">Время работы</string>
+    <string name="rest">Время отдыха</string>
+    <string name="settings">Настройки</string>
+    <string name="save">Сохранить</string>
+    <string name="errorFormat">Формат даты: </string>
+    <string name="endTime">Время закончилось</string>
+    <string name="workTime">Можно возвращаться к компьютеру!</string>
+    <string name="restTime">Пора отдохнуть!</string>
+    <string name="ok">Хорошо</string>
+</resources>
